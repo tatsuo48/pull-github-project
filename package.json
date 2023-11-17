@@ -1,0 +1,13 @@
+{
+  "name": "pull-github-project",
+  "main": "./lib/pull-github-project",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/inkdropapp/pull-github-project",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}

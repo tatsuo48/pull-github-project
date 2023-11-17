@@ -1,0 +1,5 @@
+{
+  "body": {
+    "ctrl-alt-o": "pull-github-project:toggle"
+  }
+}
