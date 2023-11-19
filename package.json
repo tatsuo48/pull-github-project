@@ -1,7 +1,7 @@
 {
   "name": "pull-github-project",
   "main": "./lib/pull-github-project",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "pull GitHub project to Inkdrop",
   "keywords": [],
   "repository": "https://github.com/tatsuo48/pull-github-project",
