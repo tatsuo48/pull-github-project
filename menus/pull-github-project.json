@@ -2,8 +2,8 @@
   "context-menu": {
     ".CodeMirror": [
       {
-        "label": "Toggle pull-github-project",
-        "command": "pull-github-project:toggle"
+        "label": "Pull GitHub Project",
+        "command": "pull-github-project:pull"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "pull-github-project",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "pull-github-project:toggle"
+              "label": "Pull",
+              "command": "pull-github-project:pull"
             }
           ]
         }

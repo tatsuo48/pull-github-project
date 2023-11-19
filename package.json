@@ -2,12 +2,14 @@
   "name": "pull-github-project",
   "main": "./lib/pull-github-project",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "pull GitHub project to Inkdrop",
   "keywords": [],
-  "repository": "https://github.com/inkdropapp/pull-github-project",
+  "repository": "https://github.com/tatsuo48/pull-github-project",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.3.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@octokit/graphql": "^7.0.2"
+  }
 }
